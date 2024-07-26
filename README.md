@@ -7,9 +7,9 @@ Telecom Analyst | Field Tech Support | Cybersecurity Student
 I'm an Information Technology professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
 ## What I Do 🚀
-**Tech Whisperer**: I speak fluent Hardware, Windows, and Linux. Need help with your gadgets? I'm your go-to person!
+**Tech Whisperer**: I speak fluent Windows and Linux. Need help with your gadgets?
 
-**IT Infrastructure Guru**: From setting up robust IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
+**IT Infrastructure Guru**: From setting up IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
 
 **Customer Service Ninja**: I excel in making tech talk less scary and more friendly. Your tech problems? Consider them solved!
 
