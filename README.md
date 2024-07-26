@@ -4,7 +4,7 @@ Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 ## About Me 👨‍💻
 Telecom Analyst | Field Tech Support | Cybersecurity Student
 
-I'm an Information Technology professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
+I'm an IT professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
 ## What I Do 🚀
 **Tech Whisperer**: I speak fluent Windows and Linux. Need help with your gadgets?
@@ -19,7 +19,6 @@ I'm an Information Technology professional with over 5 years of experience in te
 On a mission to become a Security Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
 
 ## Let's Connect!
-
 Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I  post career updates and a occasional meme.
 
 Happy coding! 
