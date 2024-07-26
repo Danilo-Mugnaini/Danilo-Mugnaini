@@ -8,13 +8,13 @@ Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 I'm an Information Technology professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
 ## What I Do
-Tech Whisperer: I speak fluent Hardware, Windows, and Linux. Need help with your gadgets? I'm your go-to person!
+**Tech Whisperer**: I speak fluent Hardware, Windows, and Linux. Need help with your gadgets? I'm your go-to person!
 
-IT Infrastructure Guru: From setting up robust IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
+**IT Infrastructure Guru**: From setting up robust IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
 
-Customer Service Ninja: I excel in making tech talk less scary and more friendly. Your tech problems? Consider them solved!
+**Customer Service Ninja**: I excel in making tech talk less scary and more friendly. Your tech problems? Consider them solved!
 
-Office 365 Pro: Excel, Word, PowerPoint – you name it, I've mastered it.
+**Office 365 Pro**: Excel, Word, PowerPoint – you name it, I've mastered it.
 
 ## Currently Learning
 🔒 Cybersecurity: On a mission to become a Security Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
