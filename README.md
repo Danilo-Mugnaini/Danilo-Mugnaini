@@ -1,5 +1,4 @@
 ## Hey there! 👋 I'm Danilo!
-
 Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 
 ## About Me
@@ -16,18 +15,11 @@ I'm an Information Technology professional with over 5 years of experience in te
 
 **Office 365 Pro**: Excel, Word, PowerPoint – you name it, I've mastered it.
 
-## Currently Learning
-🔒 Cybersecurity: On a mission to become a Security Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
-
-## Fun Facts
-I thrive on caffeine and code. My coffee mug is basically an extension of my hand.
-
-Windows or Linux? Why not both! I switch between them like a pro.
-
-I have a knack for turning tech jargon into plain English – because why should tech be intimidating?
+## Currently Learning Cybersecurity
+🔒 On a mission to become a Security Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
 
 ## Let's Connect!
 
-Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I occasionally post tech tips and tricks, career updates, and the occasional meme.
+Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I  post career updates and a occasional meme.
 
 Happy coding! 🚀
