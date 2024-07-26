@@ -20,3 +20,5 @@ On a mission to become a Security Analyst. Studying hard to make the cyber world
 Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I  post career updates and a occasional meme.
 
 Happy coding! 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mugnaini&show_icons=true&theme=transparent)](https://github.com/Danilo-Mugnaini/github-readme-stats)
