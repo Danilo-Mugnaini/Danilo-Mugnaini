@@ -23,4 +23,4 @@ Feel free to check out my repositories, star the ones you like, and maybe even c
 
 [![Danilos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mugnaini&show_icons=true&theme=transparent)](https://github.com/Danilo-Mugnaini/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mugnaini)](https://github.com/Danilo-Mugnaini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mugnaini&show_icons=true&theme=transparent)](https://github.com/Danilo-Mugnaini/github-readme-stats)
