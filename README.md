@@ -10,9 +10,9 @@ I'm an IT professional with over 5 years of experience in technical support. I'v
 ## What I Do 🚀
 **Tech Whisperer**: I speak fluent Windows and Linux. Need help with your gadgets?
 
-**IT Infrastructure Guru**: From setting up IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
+**IT Infrastructure**: From setting up IT infrastructures to ensuring everything runs like a well-oiled machine, I've got it covered.
 
-**Customer Service Ninja**: I excel in making tech talk less scary and more friendly. 
+**Customer Service**: I excel in making tech talk less scary and more friendly. 
 
 **Network Admin**: I manage networks with the precision of a tightrope walker. Routing, switching, and network security are my playgrounds.
 
