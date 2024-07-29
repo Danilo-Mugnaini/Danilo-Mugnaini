@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Danilo-Mugnaini&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
+## Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 
-## About Me 👨‍💻
+### About Me 👨‍💻
 I'm an IT professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
 ## What I Do 🚀
