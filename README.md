@@ -2,8 +2,6 @@
 Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 
 ## About Me 👨‍💻
-Telecom Analyst - NOC - Field Tech Support - Coding and Cybersecurity Student
-
 I'm an IT professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
 ## What I Do 🚀
