@@ -21,4 +21,6 @@ On a mission to become a Cybersecurity Analyst. Studying hard to make the cyber 
 ## Let's Connect!
 Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I post career updates and occasional memes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mugnaini&show_icons=true&theme=transparent)](https://github.com/Danilo-Mugnaini/github-readme-stats)
+[![Danilos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Mugnaini&show_icons=true&theme=transparent)](https://github.com/Danilo-Mugnaini/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mugnaini)](https://github.com/Danilo-Mugnaini/github-readme-stats)
