@@ -1,7 +1,7 @@
-## Hello World 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Danilo-Mugnaini&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## Hello World 👋
 Welcome to my corner of GitHub, where code meets coffee (lots of coffee ☕)!
 
 ## About Me 👨‍💻
