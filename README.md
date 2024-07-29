@@ -22,7 +22,7 @@ On a mission to become a Cybersecurity Analyst. Studying hard to make the cyber 
 ## Let's Connect!
 Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I post career updates and occasional memes.
 
-<p align='center'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/daniloamneto/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
