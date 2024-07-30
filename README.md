@@ -31,6 +31,10 @@ Feel free to check out my repositories, star the ones you like, and maybe even c
 ---
 
 <p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
   <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=Danilo-Mugnaini&show_icons=true&theme=vision-friendly-dark">
   <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Mugnaini&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
@@ -43,8 +47,6 @@ Feel free to check out my repositories, star the ones you like, and maybe even c
   <img src="https://komarev.com/ghpvc/?username=Danilo-Mugnaini&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 
