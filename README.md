@@ -4,13 +4,10 @@
 ## Hello World 👋
 Welcome to my corner of GitHub!
 
-## About Me 👨‍💻
 I'm an IT professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in development and cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
 
-## Currently Learning Cybersecurity 🔒
 On a mission to become a Cybersecurity Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
 
-## Let's Connect!
 Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I post career updates and occasional memes.
 
 <p align='left'>
