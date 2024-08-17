@@ -1,14 +1,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Danilo-Mugnaini&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Hello World 👋
+## Hello World!
 Welcome to my corner of GitHub!
 
-I'm an IT professional with over 5 years of experience in technical support. I've dived deep into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When I'm not busy helping people troubleshoot their tech woes, I'm honing my skills in development and cybersecurity, dreaming of a world where passwords are strong and data breaches are but a myth.
+I'm a seasoned IT professional with more than 5 years of experience in technical support. I've dipped myself into the realms of hardware maintenance, wrestled with IT infrastructures, and tamed countless IT assets. When not busy helping people troubleshoot their tech woes, I hone my skills in development and cybersecurity.
 
-On a mission to become a Cybersecurity Analyst. Studying hard to make the cyber world a safer place, one line of code at a time.
+On a mission to become a Cybersecurity Analyst!
 
-Feel free to check out my repositories, star the ones you like, and maybe even collaborate on something cool! You can also find me on LinkedIn where I post career updates and occasional memes.
+Feel free to browse through my repositories, star the ones you find likable, and maybe even collaborate on something cool. You can also follow me on LinkedIn for a stream of career updates and occasional memes.
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/daniloamneto/">
